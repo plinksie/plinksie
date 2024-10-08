@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=plinksie&theme=dark-minimalist&fire=202025&currStreakLabel=D87F1B" alt="GitHub Streak" /></a>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plinksie&show_icons=true&theme=tokyonight)
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=plinksie)
